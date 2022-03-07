@@ -1,3 +1,3 @@
-Pierwszy wpis w readme.
+# Pierwszy wpis w readme.
 
-To jest jakiś tekst.
+## To jest jakiś tekst.
